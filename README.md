@@ -34,6 +34,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Rukeh/Rukeh/output/snake.svg"/>
 </p>
+
 ---
 
 # Views
