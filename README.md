@@ -4,8 +4,6 @@
 - ⚡ Interested in **open source**
 - 🧪 I experiment with random projects
 
----
-
 # 📊 GitHub Stats
 
 <div align="center">
@@ -16,7 +14,6 @@
 
 </div>
 
----
 
 # 🔥 Commit Streak
 
@@ -24,7 +21,6 @@
 <img src="https://streak-stats.demolab.com?user=Rukeh&theme=radical"/>
 </p>
 
----
 
 # 📈 Activity Graph
 
@@ -35,7 +31,6 @@
 <img src="https://raw.githubusercontent.com/Rukeh/Rukeh/output/snake.svg"/>
 </p>
 
----
 
 # Views
 
@@ -45,4 +40,3 @@
 
 </p>
 
----
