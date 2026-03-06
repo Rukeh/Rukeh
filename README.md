@@ -1,13 +1,3 @@
-<h1 align="center">
-  Hi 👋 I'm Lucas
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Open+Source+Enjoyer;Linux+User;Building+Cool+Tools;Always+Learning&center=true&width=500&height=50">
-</p>
-
----
-
 # 🧠 About Me
 
 - 🐧 I use Arch BTW
