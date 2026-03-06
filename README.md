@@ -28,7 +28,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeh&theme=react-dark"/>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rukeh/Rukeh/output/snake.svg"/>
+  <img src="https://github.com/Rukeh/Rukeh/blob/output/snake-dark.svg?raw=true">
 </p>
 
 
