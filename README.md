@@ -31,25 +31,9 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeh&theme=react-dark"/>
 </p>
-
----
-
-# 🐍 Contribution Snake
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Rukeh/Rukeh/output/snake.svg"/>
 </p>
-
----
-
-# 🧰 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,vscode,docker"/>
-
-</p>
-
 ---
 
 # Views
