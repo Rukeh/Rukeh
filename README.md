@@ -31,12 +31,3 @@
   <img src="https://github.com/Rukeh/Rukeh/blob/output/snake-dark.svg?raw=true">
 </p>
 
-
-# Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Rukeh&color=blueviolet">
-
-</p>
-
